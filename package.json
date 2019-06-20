@@ -1,0 +1,19 @@
+{
+  "name": "adventures-in-japan-rpg",
+  "version": "1.0.0",
+  "description": "A small team of Half Demon High School Teens are Tokyo's last line of defense against a monster invasion",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "RPG",
+    "RPG Maker MV",
+    "KuroyukiDev"
+  ],
+  "author": "KuroyukiDev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"battlerName":"Actor1a_1","characterIndex":0,"characterName":"Actor1a","classId":5,"equips":[1,1,2,3,4],"faceIndex":0,"faceName":"Actor1a","traits":[],"initialLevel":50,"maxLevel":99,"name":"Kousuke","nickname":"Grand Master","note":"","profile":"The super genius leader of K.A.M.I. and an undefeated \nteen grand master in Shogi. He's an Electromaster Esper."},
+{"id":2,"battlerName":"Actor1a_2","characterIndex":1,"characterName":"Actor1a","classId":5,"equips":[2,1,2,3,4],"faceIndex":1,"faceName":"Actor1a","traits":[],"initialLevel":50,"maxLevel":99,"name":"Akira","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor1a_3","characterIndex":2,"characterName":"Actor1a","classId":5,"equips":[1,1,0,3,4],"faceIndex":2,"faceName":"Actor1a","traits":[],"initialLevel":50,"maxLevel":99,"name":"Kuromaru","nickname":"","note":"","profile":""}
+]
